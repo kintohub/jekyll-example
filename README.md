@@ -20,7 +20,7 @@ KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More
 6. Set the **Build Command** as `gem install jekyll bundler && bundle install &&  bundle exec jekyll build`
 7. Set the **Build Folder** as `_site`
 
-You're now good to go! Click **Create Website** and then on your Master branch click `Build Latest Commit`.
+You're now good to go! Click **Create Website** and then on your Master branch click **Build Latest Commit**.
 
 Once complete, Click  Now click **Add To Project**.
 And now you're ready to go live Click **Deploy** and once done -> you can view your website by clicking **Open**
